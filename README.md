@@ -1,5 +1,6 @@
 # facebook_clone
 
+Practice Project. -  Facebook Clone UI.
 A new Flutter application.
 
 ## Getting Started
